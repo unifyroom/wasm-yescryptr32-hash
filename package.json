@@ -1,8 +1,8 @@
 {
   "name": "wasm-yescryptr32-hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WASM JS binding for yescryptR32 hashing algorithm",
-  "main": "yescryptr32.js",
+  "main": "./lib/yescryptr32.js",
   "scripts": {
     "build": "scripts/build_normal.sh",
     "lint": "eslint .",
