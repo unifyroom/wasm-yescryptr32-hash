@@ -1,7 +1,7 @@
 # wasm-yescryptr32-hash
 [![NPM Version](https://img.shields.io/npm/v/wasm-yescryptr32-hash)](https://www.npmjs.com/package/wasm-yescryptr32-hash)
 [![Build Status](https://github.com/unifyroom/wasm-yescryptr32-hash/actions/workflows/test_and_release.yml/badge.svg)](https://github.com/unifyroom/wasm-yescryptr32-hash/actions/workflows/test_and_release.yml)
-[![Release Date](https://img.shields.io/github/release-date/dashevo/wasm-yescryptr32-hash)](https://github.com/unifyroom/wasm-yescryptr32-hash/releases/latest)
+[![Release Date](https://img.shields.io/github/release-date/unifyroom/wasm-yescryptr32-hash)](https://github.com/unifyroom/wasm-yescryptr32-hash/releases/latest)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme)
 
 WASM binding for YescryptR32 hashing algorithm written in C
