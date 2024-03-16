@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "string.h": "c",
+        "sysendian.h": "c",
+        "yescrypt.h": "c"
+    }
+}
