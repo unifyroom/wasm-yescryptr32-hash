@@ -17,3 +17,5 @@ WASM_BUILD_BASE_64=$(base64 lib/wasm-build/yescryptR32-hash.wasm)
 echo 'module.exports = "'${WASM_BUILD_BASE_64}'"' > lib/wasm-build/yescryptR32-hash-wasm-base64.js
 
 rm lib/wasm-build/yescryptR32-hash.wasm
+
+sed -i 's/_scriptDir ||= __filename/_scriptDir || __filename/' lib/wasm-build/yescryptR32-hash.js
